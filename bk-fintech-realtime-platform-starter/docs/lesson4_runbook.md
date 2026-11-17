@@ -1,4 +1,4 @@
-# Hướng Dẫn Triển Khai Hệ Thống Dữ Liệu Bằng Docker Compose (Buổi 4)
+# Hướng Dẫn Vận Hành Lab: Buổi 4 — Container Hóa Hệ Thống Dữ Liệu Bằng Docker Compose
 
 Học phần này đóng gói toàn bộ nền tảng E-commerce Streaming thành một cụm các container hoàn chỉnh, cô lập và tái lập được trên mọi máy tính cá nhân.
 

@@ -1,4 +1,4 @@
-# Hướng Dẫn Vận Hành Lab: Module 5 Buổi 2 (Lesson 18)
+# Hướng Dẫn Vận Hành Lab: Buổi 2 — Xây Dựng Kafka Producer & Consumer Bằng Python
 
 Tài liệu này hướng dẫn chạy thử nghiệm luồng sinh dữ liệu bằng Python và ghi nhận sự kiện qua Kafka Consumer với cơ chế commit thủ công và phân loại cách ly lỗi (quarantine).
 
